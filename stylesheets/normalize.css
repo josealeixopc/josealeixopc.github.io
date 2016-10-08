@@ -422,3 +422,10 @@ td,
 th {
   padding: 0;
 }
+
+
+/** Changes of my own **/
+
+p {
+  text-align: justify;
+}
